@@ -7,7 +7,7 @@ public class Datatypes{
     String s="a";
     double d=23.23;
     short sh=23;
-    long l=1234567890;
+    long l=00000000000000;
     double c=a;
     System.out.println(a);          
     System.out.println(b);
